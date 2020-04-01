@@ -7,3 +7,12 @@ C:\Users\Bart\Documents\GitHub\MSMessageQueuing\Message Queuing App\MSMQ Test 1\
 C:\Users\Bart\Documents\GitHub\MSMessageQueuing\Message Queuing App\MSMQ Test 1\obj\Debug\MSMQ Test 1.csproj.GenerateResource.cache
 C:\Users\Bart\Documents\GitHub\MSMessageQueuing\Message Queuing App\MSMQ Test 1\obj\Debug\MSMQ Test 1.exe
 C:\Users\Bart\Documents\GitHub\MSMessageQueuing\Message Queuing App\MSMQ Test 1\obj\Debug\MSMQ Test 1.pdb
+C:\Users\bvanderp\Documents\GitHub\MSMessageQueuing\Message Queuing App\MSMQ Test 1\bin\Debug\MSMQ Test 1.exe.config
+C:\Users\bvanderp\Documents\GitHub\MSMessageQueuing\Message Queuing App\MSMQ Test 1\bin\Debug\MSMQ Test 1.exe
+C:\Users\bvanderp\Documents\GitHub\MSMessageQueuing\Message Queuing App\MSMQ Test 1\bin\Debug\MSMQ Test 1.pdb
+C:\Users\bvanderp\Documents\GitHub\MSMessageQueuing\Message Queuing App\MSMQ Test 1\obj\Debug\MSMQ Test 1.csprojAssemblyReference.cache
+C:\Users\bvanderp\Documents\GitHub\MSMessageQueuing\Message Queuing App\MSMQ Test 1\obj\Debug\MSMQ_Test_1.FrmMSMQ.resources
+C:\Users\bvanderp\Documents\GitHub\MSMessageQueuing\Message Queuing App\MSMQ Test 1\obj\Debug\MSMQ_Test_1.Properties.Resources.resources
+C:\Users\bvanderp\Documents\GitHub\MSMessageQueuing\Message Queuing App\MSMQ Test 1\obj\Debug\MSMQ Test 1.csproj.GenerateResource.cache
+C:\Users\bvanderp\Documents\GitHub\MSMessageQueuing\Message Queuing App\MSMQ Test 1\obj\Debug\MSMQ Test 1.exe
+C:\Users\bvanderp\Documents\GitHub\MSMessageQueuing\Message Queuing App\MSMQ Test 1\obj\Debug\MSMQ Test 1.pdb
